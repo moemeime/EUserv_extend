@@ -54,3 +54,4 @@ schedule:
 
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
 
+test
